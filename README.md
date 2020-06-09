@@ -1,24 +1,32 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Built in Ruby 2.6.5
 
-Things you may want to cover:
+The entire repo here is not needed- only the fish.rb file is.
 
-* Ruby version
+Ruby/Rails framework is for a later plan to build a front end which displays the internal machinations as the puzzle is being solved.
 
-* System dependencies
+Below is the original puzzle from Coudal's site:
 
-* Configuration
+https://www.coudal.com/thefish.php
 
-* Database creation
+There are five houses in a row in different colors. In each house lives a person with a different nationality. The five owners drink a different drink, smoke a different brand of cigar and keep a different pet, one of which is a Walleye Pike.
 
-* Database initialization
+The question is-- who owns the fish?
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Hints:
+1. The Brit lives in the red house.
+2. The Swede keeps dogs as pets.
+3. The Dane drinks tea.
+4. The green house is on the left of the white house.
+5. The green house owner drinks coffee.
+6. The person who smokes Pall Malls keeps birds.
+7. The owner of the yellow house smokes Dunhills.
+8. The man living in the house right in the center drinks milk.
+9. The man who smokes Blends lives next to the one who keeps cats.
+10. The Norwegian lives in the first house.
+11. The man who keeps horses lives next to the one who smokes Dunhills.
+12. The owner who smokes Bluemasters drinks beer.
+13. The German smokes Princes.
+14. The Norwegian lives next to the blue house.
+15. The man who smokes Blends has a neighbor who drinks water.

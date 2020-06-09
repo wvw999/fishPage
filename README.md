@@ -2,9 +2,7 @@
 
 Built in Ruby 2.6.5
 
-The entire repo here is not needed- only the fish.rb file is.
-
-Ruby/Rails framework is for a later plan to build a front end which displays the internal machinations as the puzzle is being solved.
+New project building a front end that displays activity while logic engine solves puzzle
 
 Below is the original puzzle from Coudal's site:
 
